@@ -3,7 +3,7 @@ This project is dedicated to make a trading bot which trades crypto_currency aut
 
 # Project Structure
 ```bash
-pepe_trading_bot/
+Trading_bot/
 ├── src/
 │   ├── __init__.py
 │   ├── api_utils.py         # Handles Binance API interactions (e.g., fetching balance, placing orders)
